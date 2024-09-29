@@ -18,9 +18,9 @@ Our preprint is available at arXiv:1905.05833.
 
 This implementation uses the [nbv dataset](https://www.kaggle.com/irvingvasquez/nbv-classification) available at kaggle. Some examples of the dataset are:
 
-![A test image](nbv_example_1.png)
-![A test image](nbv_example_2.png)
-![A test image](nbv_example_3.png)
+![A test image](img/nbv_example_1.png)
+![A test image](img/nbv_example_2.png)
+![A test image](img/nbv_example_3.png)
 
 Juan Irving Vasquez-Gomez  
 [jivg.org](jivg.org)
